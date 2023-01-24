@@ -29,4 +29,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayungyeong&show_icons=true&theme=flag-india)
 <br />
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:a8edea,100:fed6e3&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:a8edea,100:fed6e3&height=150&section=footer)
