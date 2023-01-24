@@ -1,3 +1,5 @@
+![snake gif](https://github.com/mayungyeong/mayungyeong/blob/output/github-contribution-grid-snake.svg)
+
 ### 🤞 Nice way to meet me
 <p>
 <a href="mailto:kwn07191@naver.com" target="_blank"><img src="https://img.shields.io/badge/kwn07191@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
