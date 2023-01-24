@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&text=Ma%20Github%20!&color=0:D4A7E9,100:BE8AD5&height=200&fontColor=F5F8F9&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&text=Ma's%20Github%20!&color=0:D4A7E9,100:BE8AD5&height=200&fontColor=F5F8F9&fontSize=60&animation=fadeIn)
 <br />
 
 ![snake gif](https://github.com/mayungyeong/mayungyeong/blob/output/github-contribution-grid-snake.svg)
