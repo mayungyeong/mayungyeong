@@ -1,6 +1,4 @@
-
 ![snake gif](https://github.com/mayungyeong/mayungyeong/blob/output/github-contribution-grid-snake.svg)
-
 
 ### 🤞 Nice way to meet me
 <p>
