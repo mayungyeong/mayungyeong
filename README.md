@@ -2,13 +2,12 @@
 ![snake gif](https://github.com/mayungyeong/mayungyeong/blob/output/github-contribution-grid-snake.svg)
 
 
-### 🤞 Nice way to meet me
+### 🍄🍀 Contact Me 🍄🍀
 <p>
 <a href="mailto:kwn07191@naver.com" target="_blank"><img src="https://img.shields.io/badge/kwn07191@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 </p>
 
-### 💪 Skills
-#### Platforms & Languages
+### 📚 Skills 📚
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
