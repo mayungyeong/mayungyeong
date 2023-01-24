@@ -1,6 +1,6 @@
 
 ![snake gif](https://github.com/mayungyeong/mayungyeong/blob/output/github-contribution-grid-snake.svg)
-
+<br />
 
 ### 🍄 Contact Me 🍄
 <p>
