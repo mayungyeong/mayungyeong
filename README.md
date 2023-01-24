@@ -25,7 +25,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayungyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayungyeong&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mayungyeong&show_icons=true&theme=flag-india)
 <br />
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:a8edea,100:fed6e3&height=150&section=footer)
