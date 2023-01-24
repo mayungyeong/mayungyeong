@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave)
+![header](https://capsule-render.vercel.app/api?type=soft)
 <br />
 
 ![snake gif](https://github.com/mayungyeong/mayungyeong/blob/output/github-contribution-grid-snake.svg)
@@ -23,7 +23,7 @@
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayungyeong&show_icons=true&theme=flag-india)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayungyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayungyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayungyeong&show_icons=true&theme=flag-india)
